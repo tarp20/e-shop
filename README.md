@@ -1,3 +1,2 @@
 # e-shop
- e shop platform custom
-about
+ e shop platform custom!
